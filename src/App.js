@@ -1,5 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
+import Pizzas from "./Pizza.jsx";
 
 const App = () => {
   return React.createElement(
