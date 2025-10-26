@@ -5,7 +5,7 @@
 //   ]);
 // };
 
-const Pizaa = (props) => {
+const Pizza = (props) => {
   return (
     <div className="pizza">
       <h1>{props.name}</h1>
@@ -14,4 +14,4 @@ const Pizaa = (props) => {
   );
 };
 
-export default Pizzas;
+export default Pizza;
